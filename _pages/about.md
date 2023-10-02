@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style="text-align:justify; text-justify:inter-ideograph;">
+<p style="text-left:justify; text-justify:inter-ideograph;">
 **Yun Liu (刘 运)** is currently a lecturer with the College of Artificial Intelligence, Southwest University. He received his Ph.D. degree in computer science and technology from Sichuan University, China, in 2019. His current interests include image processing, computer vision and deep learning,  mainly focusing on image dehaizng, deraining and desnowing. 
 </p>
 
