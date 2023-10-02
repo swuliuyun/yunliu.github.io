@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Yun Liu (刘 运) "
   avatar           : "my_profile.jpg"
-  bio              : "Southwest University"
+  bio              : "Southwest University \\ College of Artificial Intelligence"
   College          : "College of Artificial Intelligence" 
   location         : "Chongqing"
   email            : "yunliu@swu.edu.cn"
-  employer         :
+#  employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
 #  email            : "yunliu@swu.edu.cn"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yunliu"
+#  github           : "yunliu"
   google_plus      :
   keybase          :
   instagram        :
