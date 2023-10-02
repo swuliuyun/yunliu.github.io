@@ -12,8 +12,8 @@ redirect_from:
 
 # Publications
 - **Y. Liu**, Z. Yan, S. Chen, T. Ye, W. Ren, E. Chen. NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer. In Proceedings of the 31st ACM International Conference on Multimedia (ACM MM '23).
-- T, Ye, S. Chen, **Y. Liu**, W. Chai, J. Bai, W. Zou, Y. Zhang, M. Jiang, E. Chen, C. Xue. Sequential Affinity Learning for Video Restoration. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM '23). (Corresponding author)
-- T. Ye, S. Chen, J. Bai, J. Shi, C. Xue, J. Jiang, J. Yin E. Chen, **Yun Liu**. Adverse Weather Removal with Codebook Priors. Proceedings of the IEEE/CVF international conference on computer vision (ICCV). 2023.  (Corresponding author)
+- T, Ye, S. Chen, **Y. Liu***, W. Chai, J. Bai, W. Zou, Y. Zhang, M. Jiang, E. Chen, C. Xue. Sequential Affinity Learning for Video Restoration. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM '23). (Corresponding author)
+- T. Ye, S. Chen, J. Bai, J. Shi, C. Xue, J. Jiang, J. Yin E. Chen, **Yun Liu***. Adverse Weather Removal with Codebook Priors. Proceedings of the IEEE/CVF international conference on computer vision (ICCV). 2023.  (Corresponding author)
 - **Y. Liu**, Z. Yan, J. Tan, Y. Li. Multi-purpose Oriented Single Nighttime Image Haze Removal Based on Unified Variational Retinex Model. IEEE Transactions on Circuits and Systems for Video Technology, 2023, 33(4):1643 -1657.
 - **Y. Liu**, Z. Yan, T. Ye, A. Wu, Y. Li. Single Nighttime Image Dehazing Based on Unified Variational Decomposition Model and Multi-Scale Contrast Enhancement. Engineering Applications of Artificial Intelligence, 2022, 116: 105373.
 - **Y. Liu**, A. Wang, H. zhou, P. Jia. Single Nighttime Image Dehazing Based on Image Decomposition. Signal Processing, 2021, 183, 107886.
