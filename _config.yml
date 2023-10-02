@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yun Liu"
-  avatar           : "profile.png"
-  bio              : "yunliu@swu.edu.cn"
+  name             : "Yun Liu (刘 运) "
+  avatar           : "my_profile.png"
+  bio              : "Southwest University"
   location         : "Chongqing"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "yunliu@swu.edu.cn"
 # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
