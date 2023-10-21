@@ -26,8 +26,8 @@ redirect_from:
 - H. Zhou, Z. Chen, **Yun Liu**, Y. Sheng, W. Ren, H. Xiong. Physical-priors-guided DehazeFormer. Knowledge-Based Systems, 2023, 266: 110410.
 
 #  Academic Professional Services
-- Conference Reviewer: CVPR, ECCV, ICCV, AAAI, ACCV, ICASSP, WACV, CCBR,
-- Journal Reviewer: IEEE TCSVT, IEEE TII, ISPRS Journal of Photogrammetry and Remote Sensing, Signal Processing, Computer Science Review, Remote Sensing of Environment, Multimedia System, Imaging Science Journal, IET Image Processing, Electronics Letters, Optics and Laser Technology, Sensors, Neurocomputing, etc
+- Conference Reviewer: CVPR, ECCV, ICCV, AAAI, ACCV, ICASSP, WACV, CCBR
+- Journal Reviewer: IEEE TCSVT, IEEE TII, Expert Systems With Applications, ISPRS Journal of Photogrammetry and Remote Sensing, Signal Processing, Computer Science Review, Remote Sensing of Environment, Multimedia System, Imaging Science Journal, IET Image Processing, Electronics Letters, Optics and Laser Technology, Sensors, Neurocomputing, etc
 - Guest Editor for Applied Sciences (Special Issue: Advance in Image Enhancement and Restoration Technology)
 - Workshop Chair for PRMVIA
 - Publicity Chair for ICISC 2024
