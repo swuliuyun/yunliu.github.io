@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ## 2023
-- **Yun Liu**, Z. Yan, S. Chen, T. Ye, W. Ren, E. Chen. NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM '23). 2023:4119-4128. (CCF-A)
-- **Yun Liu**, Z. Yan, J. Tan, Y. Li. Multi-purpose Oriented Single Nighttime Image Haze Removal Based on Unified Variational Retinex Model. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023, 33(4):1643-1657. (CCF-B, Highly Cited Paper)
+- **Yun Liu**, Z. Yan, S. Chen, T. Ye, W. Ren, E. Chen. NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM '23). 2023: 4119-4128. (CCF-A)
+- **Yun Liu**, Z. Yan, J. Tan, Y. Li. Multi-purpose Oriented Single Nighttime Image Haze Removal Based on Unified Variational Retinex Model. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023, 33(4): 1643-1657. (CCF-B, Highly Cited Paper)
 - T. Ye, S. Chen, **Yun Liu***, W. Chai, J. Bai, W. Zou, Y. Zhang, M. Jiang, E. Chen, C. Xue. Sequential Affinity Learning for Video Restoration. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM '23). 2023: 4147-4156. (CCF-A, Corresponding author)
-- T. Ye, S. Chen, J. Bai, J. Shi, C. Xue, J. Jiang, J. Yin, E. Chen, **Yun Liu***. Adverse Weather Removal with Codebook Priors. Proceedings of the IEEE/CVF international conference on computer vision (ICCV). 2023:12653-12664.  (CCF-A, Corresponding author)
+- T. Ye, S. Chen, J. Bai, J. Shi, C. Xue, J. Jiang, J. Yin, E. Chen, **Yun Liu***. Adverse Weather Removal with Codebook Priors. Proceedings of the IEEE/CVF international conference on computer vision (ICCV). 2023: 12653-12664.  (CCF-A, Corresponding author)
 - E. Chen, S. Chen, T. Ye, **Yun Liu***. Degradation-Adaptive Neural Network for Jointly Single Image Dehazing and Desnowing. Frontiers of Computer Science, 2023. (CCF-B, Corresponding author)
 - C. Li, E. Hu, X. Zhang, H. Zhou, H. Xiong, **Yun Liu***. Visibility Restoration for Real-world Hazy Images via Improved Physical Model and Gaussian Total Variation. Frontiers of Computer Science, 2023. (CCF-B, Corresponding author)
 - S. Chen#, T. Ye#, **Yun Liu#**, T. Liao, J. Jiang, E. Chen, P. Chen. MSP-former: Multi-scale Projection Transformer for Single Image Desnowing. Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2023: 1-5. (CCF-B, co-first author)
