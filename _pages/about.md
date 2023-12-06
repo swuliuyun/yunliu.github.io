@@ -26,7 +26,7 @@ redirect_from:
 - **Yun Liu**, P. Jia, H. Zhou, A. Wang. Joint Dehazing and Denoising for Single Nighttime Image via Multi-scale Decomposition. Multimedia Tools and Applications, 2022, 81, 23941-23962.
 - H. Zhou, Z. Zhao, H. Xiong, **Yun Liu***. A Unified Weighted Variational Model for Simultaneously Haze Removal and Noise Suppression of Hazy Images. Displays, 2022, 72, 102137. (Corresponding author)
 - T. Ye#, S. Chen#, **Yun Liu#**, Y. Ye, J. Bai, E. Chen. Towards Real-time High-definition Image Snow Removal: Efficient pyramid network with asymmetrical encoder-decoder architecture. Proceedings of the Asian Conference on Computer Vision (ACCV). 2022: 366-381. (co-first author)
-##2021 
+## 2021 
 - **Yun Liu**, A. Wang, H. zhou, P. Jia. Single Nighttime Image Dehazing Based on Image Decomposition. Signal Processing, 2021, 183, 107886.
 
 #  Academic Professional Services
