@@ -11,7 +11,7 @@ redirect_from:
 **Yun Liu (刘 运)** is currently a lecturer with the College of Artificial Intelligence, Southwest University. He received his Ph.D. degree in computer science and technology from Sichuan University, China, in 2019. His current interests include image processing, computer vision and deep learning,  mainly focusing on image dehazng, deraining and desnowing. 
 
 # Publications
-## 2023
+# 2023
 - **Yun Liu**, Z. Yan, S. Chen, T. Ye, W. Ren, E. Chen. NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM '23). 2023: 4119-4128. (CCF-A)
 - **Yun Liu**, Z. Yan, J. Tan, Y. Li. Multi-purpose Oriented Single Nighttime Image Haze Removal Based on Unified Variational Retinex Model. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023, 33(4): 1643-1657. (CCF-B, Highly Cited Paper)
 - T. Ye, S. Chen, **Yun Liu***, W. Chai, J. Bai, W. Zou, Y. Zhang, M. Jiang, E. Chen, C. Xue. Sequential Affinity Learning for Video Restoration. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM '23). 2023: 4147-4156. (CCF-A, Corresponding author)
