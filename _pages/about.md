@@ -33,7 +33,7 @@ redirect_from:
 
 #  Academic Professional Services
 - Conference Reviewer: CVPR, ECCV, ICCV, AAAI, ACCV, ICASSP, WACV, CCBR
-- Journal Reviewer: IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Industrial Informatics, IEEE Transactions on Emerging Topics in Computational Intelligence, IEEE Signal Processing Letters, Expert Systems With Applications, Knowledge-Based Systems, ISPRS Journal of Photogrammetry and Remote Sensing, Signal Processing, Neurocomputing, Computer Science Review, Remote Sensing of Environment, Multimedia System, Imaging Science Journal, IET Image Processing, Electronics Letters, Optics and Laser Technology, Sensors, etc
+- Journal Reviewer: IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Industrial Informatics, IEEE Transactions on Emerging Topics in Computational Intelligence, IEEE Signal Processing Letters, Expert Systems With Applications, Knowledge-Based Systems, Engineering Applications of Artificial Intelligence, ISPRS Journal of Photogrammetry and Remote Sensing, Signal Processing, Neurocomputing, Computer Science Review, Remote Sensing of Environment, Multimedia System, Imaging Science Journal, IET Image Processing, Electronics Letters, Optics and Laser Technology, Sensors, Remote Sensing, etc
 - Guest Editor for Applied Sciences (Special Issue: Advance in Image Enhancement and Restoration Technology)
 - Workshop Chair for PRMVIA
 - Publicity Chair for ICISC 2024
