@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-**Yun Liu (刘 运)** is currently a lecturer with the College of Artificial Intelligence, Southwest University. He received his Ph.D. degree in computer science and technology from Sichuan University, China, in 2019. His current interests include image processing, computer vision and deep learning,  mainly focusing on image dehazng, deraining and desnowing. 
+**Yun Liu (刘 运)** is currently an associate professor with the College of Artificial Intelligence, Southwest University. He is also a Postdoctoral Fellow with School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore,  under the supervision of Prof. Weisi Lin (IEEE Fellow). He received his Ph.D. degree in computer science and technology from Sichuan University, China, in 2019. His current interests include image processing, computer vision and deep learning,  mainly focusing on low-level computer vision tasks.  
 
 # Publications
+##  2024
+- E. Chen, S. Chen, T. Ye, **Yun Liu***. Degradation-Adaptive Neural Network for Jointly Single Image Dehazing and Desnowing. Frontiers of Computer Science, 2024, 18(2): 182707. (CCF-B, Corresponding author)
+- C. Li, E. Hu, X. Zhang, H. Zhou, H. Xiong, **Yun Liu***. Visibility Restoration for Real-world Hazy Images via Improved Physical Model and Gaussian Total Variation. Frontiers of Computer Science, 2024, 18(1): 181708. (CCF-B, Corresponding author)
 ##  2023
 - **Yun Liu**, Z. Yan, S. Chen, T. Ye, W. Ren, E. Chen. NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM '23). 2023: 4119-4128. (CCF-A)
 - **Yun Liu**, Z. Yan, J. Tan, Y. Li. Multi-purpose Oriented Single Nighttime Image Haze Removal Based on Unified Variational Retinex Model. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023, 33(4): 1643-1657. (CCF-B, Highly Cited Paper)
 - T. Ye, S. Chen, **Yun Liu***, W. Chai, J. Bai, W. Zou, Y. Zhang, M. Jiang, E. Chen, C. Xue. Sequential Affinity Learning for Video Restoration. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM '23). 2023: 4147-4156. (CCF-A, Corresponding author)
 - T. Ye, S. Chen, J. Bai, J. Shi, C. Xue, J. Jiang, J. Yin, E. Chen, **Yun Liu***. Adverse Weather Removal with Codebook Priors. Proceedings of the IEEE/CVF international conference on computer vision (ICCV). 2023: 12653-12664.  (CCF-A, Corresponding author)
-- E. Chen, S. Chen, T. Ye, **Yun Liu***. Degradation-Adaptive Neural Network for Jointly Single Image Dehazing and Desnowing. Frontiers of Computer Science, 2023. (CCF-B, Corresponding author)
-- C. Li, E. Hu, X. Zhang, H. Zhou, H. Xiong, **Yun Liu***. Visibility Restoration for Real-world Hazy Images via Improved Physical Model and Gaussian Total Variation. Frontiers of Computer Science, 2023. (CCF-B, Corresponding author)
 - S. Chen#, T. Ye#, **Yun Liu#**, T. Liao, J. Jiang, E. Chen, P. Chen. MSP-former: Multi-scale Projection Transformer for Single Image Desnowing. Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2023: 1-5. (CCF-B, co-first author)
 - H. Zhou, Z. Chen, **Yun Liu**, Y. Sheng, W. Ren, H. Xiong. Physical-priors-guided DehazeFormer. Knowledge-Based Systems, 2023, 266: 110410. (CCF-C)
   
