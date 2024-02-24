@@ -17,7 +17,7 @@ redirect_from:
 
 ##  2023
 - **Yun Liu**, Z. Yan, S. Chen, T. Ye, W. Ren, E. Chen. NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM '23). 2023: 4119-4128. (CCF-A)
-- **Yun Liu**, Z. Yan, J. Tan, Y. Li. Multi-purpose Oriented Single Nighttime Image Haze Removal Based on Unified Variational Retinex Model. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023, 33(4): 1643-1657. (CCF-B, Highly Cited Paper)
+- **Yun Liu**, Z. Yan, J. Tan, Y. Li. Multi-purpose Oriented Single Nighttime Image Haze Removal Based on Unified Variational Retinex Model. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023, 33(4): 1643-1657. (CCF-B, ESI Highly Cited Paper)
 - T. Ye, S. Chen, **Yun Liu***, W. Chai, J. Bai, W. Zou, Y. Zhang, M. Jiang, E. Chen, C. Xue. Sequential Affinity Learning for Video Restoration. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM '23). 2023: 4147-4156. (CCF-A, Corresponding author)
 - T. Ye, S. Chen, J. Bai, J. Shi, C. Xue, J. Jiang, J. Yin, E. Chen, **Yun Liu***. Adverse Weather Removal with Codebook Priors. Proceedings of the IEEE/CVF international conference on computer vision (ICCV). 2023: 12653-12664.  (CCF-A, Corresponding author)
 - S. Chen#, T. Ye#, **Yun Liu#**, T. Liao, J. Jiang, E. Chen, P. Chen. MSP-former: Multi-scale Projection Transformer for Single Image Desnowing. Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). 2023: 1-5. (CCF-B, co-first author)
@@ -34,12 +34,14 @@ redirect_from:
 - **Yun Liu**, A. Wang, H. zhou, P. Jia. Single Nighttime Image Dehazing Based on Image Decomposition. Signal Processing, 2021, 183, 107886. (CCF-C)
 
 #  Academic Professional Services
-- Conference Reviewer: CVPR, ECCV, ICCV, AAAI, ACCV, ICASSP, WACV, CCBR
-- Journal Reviewer: IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Industrial Informatics, IEEE Transactions on Emerging Topics in Computational Intelligence, IEEE Signal Processing Letters, Expert Systems With Applications, Knowledge-Based Systems, Engineering Applications of Artificial Intelligence, ISPRS Journal of Photogrammetry and Remote Sensing, Signal Processing, Neurocomputing, Computer Science Review, Remote Sensing of Environment, Multimedia System, Imaging Science Journal, IET Image Processing, Electronics Letters, Optics and Laser Technology, Sensors, Remote Sensing, etc
+- Conference Reviewer: CVPR, ECCV, ICCV, AAAI, ACM MM, ACCV, ICASSP, WACV, CCBR
+- Journal Reviewer: IEEE Transactions on Multimedia, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Industrial Informatics, IEEE Transactions on Intelligent Transportation Systems, IEEE Transactions on Artificial Intelligence, IEEE Transactions on Emerging Topics in Computational Intelligence, IEEE Signal Processing Letters, IEEE Sensors Journal, Expert Systems With Applications, Knowledge-Based Systems, Engineering Applications of Artificial Intelligence, ISPRS Journal of Photogrammetry and Remote Sensing, Signal Processing, Signal Processing: Image Communication, Image and Vision Computing, Neurocomputing, Computer Science Review, Computer Systems Science and Engineering, Remote Sensing of Environment, Multimedia System, Imaging Science Journal, IET Image Processing, Electronics Letters, Optics and Laser Technology, Sensors, Remote Sensing, Chinese Journal of Electronics, etc
 - Guest Editor for Applied Sciences (Special Issue: Advance in Image Enhancement and Restoration Technology)
-- Workshop Chair for PRMVIA
-- Publicity Chair for ICISC 2024
-- Technical Program Committee for VRHCIAI 2023
+- Guest Editor for Applied Sciences (Special Issue: UAV Remote Sensing and 3D Reconstruction)
+- Workshop Chair for CVDL 2024
+- Workshop Chair of PRMVIA 2023
+- Publicity Chair of ICISC 2024
+- Technical Program Committee of VRHCIAI 2023
 
 # Contact
 - Welcome students with relevant backgrounds (e.g. computer vision, deep learning, etc) who are interested in joining our lab.
