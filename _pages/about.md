@@ -14,7 +14,7 @@ redirect_from:
 ##  2024
 - E. Chen, S. Chen, T. Ye, **Yun Liu***. Degradation-Adaptive Neural Network for Jointly Single Image Dehazing and Desnowing. Frontiers of Computer Science, 2024, 18(2): 182707. (CCF-B, Corresponding author)
 - C. Li, E. Hu, X. Zhang, H. Zhou, H. Xiong, **Yun Liu***. Visibility Restoration for Real-world Hazy Images via Improved Physical Model and Gaussian Total Variation. Frontiers of Computer Science, 2024, 18(1): 181708. (CCF-B, Corresponding author)
-- Z. Xia, **Yun Liu***, X. Wang, F. Zhang, R. Chen, W. Jiang. Infrared and visible image fusion via hybrid variational model. IEICE Transactions on Information and Systems. 2024, E107-D(4):569--573.
+- Z. Xia, **Yun Liu***, X. Wang, F. Zhang, R. Chen, W. Jiang. Infrared and visible image fusion via hybrid variational model. IEICE Transactions on Information and Systems. 2024, E107-D(4): 569--573.
 
 ##  2023
 - **Yun Liu**, Z. Yan, S. Chen, T. Ye, W. Ren, E. Chen. NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM '23). 2023: 4119-4128. (CCF-A)
