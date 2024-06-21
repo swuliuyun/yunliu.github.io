@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 ##  2024
 - E. Chen, S. Chen, T. Ye, **Yun Liu***. Degradation-Adaptive Neural Network for Jointly Single Image Dehazing and Desnowing. Frontiers of Computer Science, 2024, 18(2): 182707. (CCF-B, Corresponding author)
