@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-**Yun Liu (刘 运)** is currently an Associate Professor with the College of Artificial Intelligence, Southwest University. He is also a Postdoctoral Fellow with School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore, under the supervision of Prof. Weisi Lin (IEEE Fellow). He received his Ph.D. degree in computer science and technology from Sichuan University, China, in 2019. His current interests include image processing, computer vision and deep learning,  mainly focusing on low-level computer vision tasks.  
+**Yun Liu (刘 运)** is currently an Associate Professor with the College of Artificial Intelligence, Southwest University. From 2024 to 2025, he was supported by China Scholarship Council and as a Postdoctoral Research Fellow with the College of Computing and Data Science, Nanyang Technological University, Singapore, under the supervision of Prof. Weisi Lin (IEEE Fellow). He received his Ph.D. degree in computer science and technology from Sichuan University, China, in 2019. His current interests include image processing, computer vision and deep learning,  mainly focusing on low-level computer vision tasks.  
 
 # Publications
 ##  2025
 - X. Wang, G. Yang, T. Ye, **Yun Liu***. Dehaze-RetinexGAN: Real-World Image Dehazing via Retinex-based Generative Adversarial Network.  Proceedings of the 39th Annual AAAI Conference on Artificial Intelligence (AAAI). 2025. (CCF-A, Corresponding author)
 - E. Chen, L. Tong, T. Ye, S. Chen, Y. Zhang, **Yun Liu***. Mutual learning for domain adaptation: Self-distillation image dehazing network with sample-cycle. Displays, 2025, 87: 102904. (JCR-2, Corresponding author)
+  
 ##  2024
 - E. Chen, S. Chen, T. Ye, **Yun Liu***. Degradation-Adaptive Neural Network for Jointly Single Image Dehazing and Desnowing. Frontiers of Computer Science, 2024, 18(2): 182707. (CCF-B, Corresponding author)
 - C. Li, E. Hu, X. Zhang, H. Zhou, H. Xiong, **Yun Liu***. Visibility Restoration for Real-world Hazy Images via Improved Physical Model and Gaussian Total Variation. Frontiers of Computer Science, 2024, 18(1): 181708. (CCF-B, Corresponding author)
